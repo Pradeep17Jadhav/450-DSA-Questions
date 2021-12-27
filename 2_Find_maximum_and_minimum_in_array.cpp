@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
 #include<iostream>
 using namespace std;
 
@@ -13,7 +14,7 @@ int main()
     {
         cin >> arr[i];
     }
-    min = max = arr[07];
+    min = max = arr[0];
 
     for(int i = 1; i < n; i++)
     {
