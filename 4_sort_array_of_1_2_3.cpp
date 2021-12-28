@@ -1,4 +1,4 @@
-// Sort an array of 0s, 1s and 2s in ascending order.
+// Question 4 - Sort an array of 0s, 1s and 2s in ascending order.
 // Dutch National Flag Algorithm (DNF Sort Algorithm)
 // https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 // https://www.youtube.com/watch?v=2C4CQ32961Y
