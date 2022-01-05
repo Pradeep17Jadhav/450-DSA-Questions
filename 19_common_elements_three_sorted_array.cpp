@@ -1,5 +1,4 @@
 // Question 19 - Find common elements in three sorted arrays
-// Backtracking is used
 // https://leetcode.com/problems/intersection-of-three-sorted-arrays 
 // https://practice.geeksforgeeks.org/problems/common-elements1132/1
 
